@@ -16,7 +16,7 @@ async def on_ready():
 @client.command()
 async def fixture(ctx):
     
-    await ctx.send('https://cricketaddictor.com/wp-content/uploads/2021/09/IPL-2021-schedule-1-scaled.jpg')
+    await ctx.send('https://i2.wp.com/www.telanganatribune.com/wp-content/uploads/2021/07/bcci-announces-ipl-2021-fixtures-csk-vs-mi-to-kick-off-the-remaining-matches-of-14th-edition.jpg')
 
 
 @client.command()
